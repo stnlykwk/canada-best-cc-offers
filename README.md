@@ -1,2 +1,386 @@
-# canada-best-cc-offers
-r/churningcanada best cc offers
+# Best current credit card offers in Canada
+
+**Last Updated:** August 9, 2025
+
+To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.
+
+**Note**: Anything below this note was mostly copied from [u/le-bib](https://www.reddit.com/user/le-bib/)'s "Best current credit card offers in Canada" post on [r/churningcanada](https://www.reddit.com/r/churningcanada/). I created this repo so that the content below can live in one place with version control. Feel free to open an issue or a PR if you think the content needs updating.
+
+# Description
+
+Here is a list of the top cards I think are worth considering.
+
+This list is based on current offers based on sign-up bonuses and travel perks.
+
+This is of course subjective and no card is one-size-fits-all.
+
+**Important**: Offers may change at anytime so make sure to always read the terms before applying.
+
+## Lingo
+
+- AF = Annual Fees
+- AM = Air Miles
+- CCG = [creditcardGenius](http://creditcardgenius.ca)
+- FYF = First Year Free
+- GCR = [GreatCanadianRebates](http://greatcanadianrebates.ca)
+- MC = Mastercard
+- MR = Amex Membership Rewards
+- MSR = Minimum Spend Requirement
+- VI = Visa Infinite
+- WE = World Elite
+
+# Current Top Tier Cards
+
+| Card Name                     | Annual Fee  | Welcome Bonus    | Spend Requirement   |
+| ----------------------------- | ----------- | ---------------- | ------------------- |
+| Amex Biz Platinum             | $799        | up to 140,000 MR | $15,000             |
+| Amex Platinum                 | $799        | up to 110,000 MR | $10,000             |
+| Amex Cobalt                   | $13 / month | 22,000 pts       | $750 / month        |
+| AMEX Gold pers                | $250        | up to 70,000 pts | $12,000             |
+| AMEX Marriott pers            | $120        | 80,000 pts       | $3,000              |
+| AMEX Marriott Biz             | $150        | 90,000 pts       | $6,000              |
+| AMEX Aeroplan core            | $120        | up to 40,000 pts | $4,000              |
+| Amex Aeroplan Reserve         | $599        | 90,000 pts       | $7,500              |
+| BMO Ascend WE MC              | FYF         | 45,000+ pts      | $4,500              |
+| BMO WE Air Miles              | FYF         | 3,000 AM         | $3,000              |
+| CIBC Aventura Visa Infinite   | FYF         | 60,000 pts       | $5,000              |
+| CIBC Aventura Visa Gold       | FYF         | 60,000 pts       | $5,000              |
+| CIBC Dividend Visa Infinite   | FYF         | 10% up to $3,000 | -                   |
+| MBNA Rewards WE MC            | $120        | 30,000 pts       | $2,000              |
+| Scotia Passport Infinite      | $150        | 35,000 pts       | $2,000              |
+| Scotia Amex Gold              | FYF         | 30,000 pts       | $2,000              |
+| Scotia Momentum Visa Infinite | FYF         | $200             | $2,000              |
+| Scotia Amex Platinum          | $399        | 80,000 pts       | $3,000              |
+| TD FCT Visa Infinite          | FYF         | 85,000 pts       | $5,000              |
+| TD CashBack Visa Infinite     | FYF         | 10% on $3,500    | specific categories |
+| TD FCT Visa Platinum          | FYF         | 50,000 pts       | $1,000              |
+
+## Cards Worth Considering In Specific Situations
+
+| Card Name                    | Annual Fee   | Welcome Bonus       | Spend Requirement |
+| ---------------------------- | ------------ | ------------------- | ----------------- |
+| Amex Biz Gold                | $199         | 40,000 MR           | $7,500            |
+| BMO Eclipse Visa Infinite    | FYF          | 30,000+ pts         | $3,000            |
+| BMO VIPorter WE MC           | FYF          | 20,000 - 60,000 pts | $5,000 - $18,000  |
+| CIBC Aeroplan Visa Infinite  | FYF          | up to 40,000 pts    | $5,000 - $10,000  |
+| RBC Avion Visa Platinum      | $120         | 35,000 pts          | no MSR            |
+| RBC Avion Visa Infinite      | $120         | 35,000 pts          | $5,000            |
+| RBC British Airways Visa Inf | $165         | 60,000 pts          | $10,000           |
+| RBC WestJet WE               | FYF via link | up to 70,000 pts    | $5,000            |
+| TD Aeroplan Platinum         | FYF          | 20,000 pts          | $1,000            |
+| TD Aeroplan Visa Infinite    | $139         | 25,000 pts          | $7,500            |
+| TD Aeroplan Visa Privilege   | $599         | up to 80,000 pts    | $24,000           |
+
+# Individual Card Details
+
+## American Express Cards
+
+#### Amex Personal Platinum
+
+- **Annual Fee:** $799
+- **Key Benefits:**
+  - $200 annual travel credit
+  - $200 annual fine dining credit
+  - 110,000 MR points after $10,000 spend (or 80,000 via referral)
+  - Additional 30K points for purchase between months 14-17
+  - 2 MR/$ on dining and travel
+  - Gold status at Marriott and Hilton
+  - Amex FHR access
+  - YYZ benefits
+  - Priority Pass with unlimited entries
+- **Sign-up Options:** Via referral or GCR for $125 cashback
+
+#### Amex Personal Gold
+
+- **Annual Fee:** $250
+- **Key Benefits:**
+  - $100 annual travel credit
+  - 5,000 points/month with $1,000 spend (up to 60K points in first 12 months)
+  - Potential +20,000 points with specific links/browsers
+  - 2x on travel, gas, grocery and drugstore
+  - 4 Plaza Premium lounge passes
+- **Sign-up Options:** Referral (10K-20K bonus) or GCR ($125 cashback)
+
+#### Amex Business Gold
+
+- **Annual Fee:** $199
+- **Key Benefits:**
+  - 40K MR after $7.5K spend
+- **Sign-up Options:** Referral or GCR ($125 cashback)
+
+#### Amex Business Platinum
+
+- **Annual Fee:** $799
+- **Key Benefits:**
+  - $200 travel credit
+  - 100K MR after $10K spend
+  - Additional 30K points for purchase between months 14-17
+  - Marriott Gold status
+  - Priority Pass unlimited access
+  - 1.25x on all purchases
+- **Sign-up Options:** Referral or GCR ($150 cashback)
+
+#### Amex Cobalt
+
+- **Annual Fee:** $13/month
+- **Key Benefits:**
+  - 1,250 MR monthly bonus with $750 spend
+  - Extra 7K points from targeted referrals
+  - 5 MR/$ on food (grocery, restaurant, bars)
+  - 2 MR/$ on travel, transport and gas
+- **Sign-up Options:** Referral (+7K points) or GCR ($100 cashback)
+
+### Marriott Co-Branded Cards
+
+#### Amex Marriott Personal
+
+- **Annual Fee:** $120
+- **Key Benefits:**
+  - 65K Marriott points after $3,000 spend
+  - Additional 30K points after $20K spend in 12 months
+  - Additional 15K points for purchase in months 15-17
+  - 5x at Marriott, 2x elsewhere
+  - Anniversary free night (35K points) starting year 2
+  - 10K points per referral (20K during promos)
+- **Sign-up Options:** Referral or GCR for $75 cashback
+
+#### Amex Marriott Business
+
+- **Annual Fee:** $150
+- **Key Benefits:**
+  - 75K Marriott points after $6,000 spend
+  - 40K additional points after $30K spend in first 12 months
+  - Additional 15K points for purchase in months 15-17
+  - 5x at Marriott, 3x for travel/gas/dining, 2x elsewhere
+  - Anniversary free night (35K points) starting year 2
+  - 10K points per referral (20K during promos)
+- **Sign-up Options:** Referral or GCR for $75 cashback
+
+### Aeroplan Cards
+
+#### Amex Aeroplan Core
+
+- **Annual Fee:** $120
+- **Key Benefits:**
+  - 30K points after $3,000 spend in first 3 months
+  - 10K points in month 13 with $1,000 spend
+  - 2x on Air Canada
+  - 1.5x on dining and food delivery
+- **Sign-up Options:**
+  - GCR for $50 cashback
+  - Air Canada in-path offer: 25K points after $3K + 20K points month 13 + $100 AC credit
+
+#### Amex Aeroplan Reserve
+
+- **Annual Fee:** $599
+- **Key Benefits:**
+  - 60K points after $7,500 spend in first 3 months
+  - 40K additional points after $45K spend in first 12 months
+  - 30K additional points for purchase in months 15-17
+  - 3x AC and 2x dining/food delivery
+  - 1.25x elsewhere
+  - Maple Leaf Lounge access
+  - $100 NEXUS credit, UberPass membership
+- **Sign-up Options:** GCR for $125 cashback
+
+## BMO Cards
+
+#### BMO World Elite Air Miles MC
+
+- **Annual Fee:** First Year Free (FYF)
+- **Key Benefits:**
+  - 3,000 Air Miles after $4,500 spend
+  - Additional 2,000 AM after $10,000 spend
+  - Additional 2,000 AM after $20,000 spend
+  - Extra $225 via CCG app
+
+#### BMO Ascend World Elite MC
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 45K points ($300 value) after $4,500 spend
+  - 3,750 points monthly after $2,500 spend (months 4-15)
+  - 5x (3.35%) on travel
+  - 2x (1.34%) on restaurants, entertainment, recurring bills
+  - Dragon Pass + 4 passes
+- **Sign-up Options:** $125 cashback via CCG
+
+#### BMO Eclipse Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 30K points ($200 value) after $3K spend
+  - 2,500 points monthly after $2K spend (months 4-15)
+  - $50 annual lifestyle credit
+  - 5x (3.35%) on grocery, restaurants, gas, transit
+- **Sign-up Options:** $100 cashback via FrugalFlyer
+
+#### BMO VIPorter World Elite MC
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 20K points after $5K spend
+  - Extra 20K points + companion pass after $9K spend within 180 days
+  - Extra 30K points after $18K spend within 1 year
+  - 3x on Porter purchases
+  - 2x on gas, transportation, grocery, dining, hotels
+- **Sign-up Options:**
+  - $125 cashback via FrugalFlyer
+  - In-flight link for extra 10K points
+
+## CIBC Cards
+
+#### CIBC Aeroplan Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10K points after first purchase
+  - 10K points after $6K spend
+  - 20K anniversary points after $12K spend in first year
+  - 1.5x on grocery and gas
+  - Free checked bag and preferred pricing on flights
+
+#### CIBC Aventura Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 15K points at first purchase
+  - 30K points after $3K spend
+  - 15K points after $5K spend
+  - Dragon Pass + 4 passes
+  - NEXUS credit up to $160
+  - Skip+ subscription for 1 year
+
+#### CIBC Dividend Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10% back on first $3,000
+  - $50 for setting up recurring bill
+  - 4% on gas and grocery
+  - 2% on dining, transport and bills
+  - $0.10/L savings (first 250L), 3x Journie points, 2 premium car washes
+
+## MBNA Cards
+
+#### MBNA Rewards World Elite MC
+
+- **Annual Fee:** $120
+- **Key Benefits:**
+  - 20K points after $2K spend
+  - 10K points for e-statement enrollment
+  - Quebec: 20K points, no minimum spend
+  - 5x on restaurant, grocery, digital media, membership, utilities
+  - 10% birthday bonus on previous 12 months' points (max 15K)
+- **Sign-up Options:** GCR ($80) or CCG ($100)
+
+## RBC Cards
+
+#### RBC Avion Visa Infinite
+
+- **Annual Fee:** $120
+- **Key Benefits:**
+  - 35K Avion points on approval
+  - $0.03/L savings at Petro-Canada
+
+#### RBC British Airways Visa Infinite
+
+- **Annual Fee:** $165
+- **Key Benefits:**
+  - 30K Avios after $5K spend in 3 months
+  - Extra 30K Avios after $5K spend in days 91-180
+  - Companion voucher after $30K spend
+
+#### RBC WestJet World Elite MC
+
+- **Annual Fee:** FYF with promo link
+- **Key Benefits:**
+  - 30K WJ points after first purchase
+  - Extra 30K points after $5K spend
+  - Extra 10K points on first anniversary
+  - Annual companion voucher ($119 NA, $399 international)
+  - Free first checked bag
+
+## Scotia Cards
+
+#### Scotia Amex Gold Scene+
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 30K points ($300 value) after $2K spend
+  - 20K points after $7.5K spend
+  - No FX fees
+  - 6x at Sobeys
+  - 5x food and entertainment
+  - 3x transit, gas, streaming
+- **Sign-up Options:** GCR for extra $75
+
+#### Scotia Amex Platinum
+
+- **Annual Fee:** $399
+- **Key Benefits:**
+  - 60K points ($600 value) after $3K spend
+  - 20K points after $10K spend
+  - No FX fees
+  - 10 Priority Pass lounge passes
+  - 2x on everything
+- **Sign-up Options:** GCR/FF for $175-$200
+
+#### Scotia Momentum Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10% back on first $2K
+  - 4% on grocery and recurring
+  - 2% on gas and transit
+  - Annual cashback payout in November
+- **Sign-up Options:** GCR/FF for $100
+
+## TD Cards
+
+#### TD Aeroplan Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10K points after first purchase
+  - 15K points after $7,500 spend in 180 days
+  - 15K anniversary points after $12K spend
+  - 1.5x on grocery, gas and AC
+  - Free checked bag
+- **Special Offer:** $200 AC credit via in-path offer (not FYF)
+- **Quebec:** $200 statement credit for $200+ purchase
+
+#### TD Aeroplan Visa Privilege
+
+- **Annual Fee:** $599
+- **Key Benefits:**
+  - 20K points after first purchase
+  - 30K points after $12K spend in 6 months
+  - 30K anniversary points after $24K spend
+  - 1.5x on grocery, gas, travel, dining
+  - 1.25x elsewhere
+  - Free checked bag
+  - Maple Leaf Lounge access, NEXUS credit
+
+#### TD First Class Travel Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 20K points after first purchase
+  - 65K points after $5K spend in 180 days
+  - 10% anniversary bonus (max 10K points)
+  - $100 annual Expedia4TD credit
+  - 8x on TD Rewards
+  - 6x on grocery and restaurants
+  - 4x bills, 2x elsewhere
+  - 4 annual lounge passes
+- **Sign-up Options:** GCR/FF for $45 cashback
+
+#### TD Cashback Visa Infinite
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10% on first $3,500 spend (gas, grocery, pre-authorized payments)
+  - 3% on grocery and gas
+  - Free Deluxe TD Auto Club Membership
+- **Sign-up Options:** GCR for $100 cashback
