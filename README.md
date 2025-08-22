@@ -21,6 +21,7 @@ This is of course subjective and no card is one-size-fits-all.
 - AF = Annual Fees
 - AM = Air Miles
 - CCG = [creditcardGenius](http://creditcardgenius.ca)
+- FF = [Frugal Flyer](https://frugalflyer.ca/)
 - FYF = First Year Free
 - GCR = [GreatCanadianRebates](http://greatcanadianrebates.ca)
 - MC = Mastercard
@@ -44,16 +45,16 @@ This is of course subjective and no card is one-size-fits-all.
 | [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)              | FYF         | 45,000+ pts      | $4,500              |
 | [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)              | FYF         | 3,000 AM         | $3,000              |
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)   | FYF         | 60,000 pts       | $5,000              |
-| CIBC Aventura Visa Gold       | FYF         | 60,000 pts       | $5,000              |
+| [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)       | FYF         | 60,000 pts       | $5,000              |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)   | FYF         | 10% up to $3,000 | -                   |
 | [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)            | $120        | 30,000 pts       | $2,000              |
-| Scotia Passport Infinite      | $150        | 35,000 pts       | $2,000              |
+| [Scotia Passport Infinite](#scotia-passport-visa-infinite)      | $150        | 35,000 pts       | $2,000              |
 | [Scotia Amex Gold](#scotia-amex-gold-scene)              | FYF         | 30,000 pts       | $2,000              |
 | [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF         | $200             | $2,000              |
 | [Scotia Amex Platinum](#scotia-amex-platinum)          | $399        | 80,000 pts       | $3,000              |
 | [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)          | FYF         | 85,000 pts       | $5,000              |
 | [TD CashBack Visa Infinite](#td-cashback-visa-infinite)     | FYF         | 10% on $3,500    | specific categories |
-| TD FCT Visa Platinum          | FYF         | 50,000 pts       | $1,000              |
+| [TD FCT Visa Platinum](#td-platinum-travel-visa)          | FYF         | 50,000 pts       | $1,000              |
 
 ## Cards Worth Considering In Specific Situations
 
@@ -63,11 +64,11 @@ This is of course subjective and no card is one-size-fits-all.
 | [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)    | FYF          | 30,000+ pts         | $3,000            |
 | [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)           | FYF          | 20,000 - 60,000 pts | $5,000 - $18,000  |
 | [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)  | FYF          | up to 40,000 pts    | $5,000 - $10,000  |
-| RBC Avion Visa Platinum      | $120         | 35,000 pts          | no MSR            |
+| [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)      | $120         | 35,000 pts          | no MSR            |
 | [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)      | $120         | 35,000 pts          | $5,000            |
 | [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165         | 60,000 pts          | $10,000           |
 | [RBC WestJet WE](#rbc-westjet-world-elite-mc)               | FYF via link | up to 70,000 pts    | $5,000            |
-| TD Aeroplan Platinum         | FYF          | 20,000 pts          | $1,000            |
+| [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)         | FYF          | 20,000 pts          | $1,000            |
 | [TD Aeroplan Visa Infinite](#td-aeroplan-visa-infinite)    | $139         | 25,000 pts          | $7,500            |
 | [TD Aeroplan Visa Privilege](#td-aeroplan-visa-privilege)   | $599         | up to 80,000 pts    | $24,000           |
 
@@ -123,6 +124,7 @@ This is of course subjective and no card is one-size-fits-all.
 #### Amex Cobalt
 
 - **Annual Fee:** $13/month
+  - increase to $16/ month, effective Nov 5, 2025
 - **Key Benefits:**
   - 1,250 MR monthly bonus with $750 spend
   - Extra 7K points from targeted referrals
@@ -251,6 +253,16 @@ This is of course subjective and no card is one-size-fits-all.
   - NEXUS credit up to $160
   - Skip+ subscription for 1 year
 
+#### CIBC Aventura Visa Gold
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 15K points at first purchase
+  - 30K points after $3K spend
+  - 15K points after $5K spend
+  - Dragon Pass + 4 passes
+  - NEXUS credit up to $160
+
 #### CIBC Dividend Visa Infinite
 
 - **Annual Fee:** FYF
@@ -282,6 +294,12 @@ This is of course subjective and no card is one-size-fits-all.
 - **Key Benefits:**
   - 35K Avion points on approval
   - $0.03/L savings at Petro-Canada
+
+#### RBC Avion Visa Platinum
+
+- **Annual Fee:** $120
+- **Key Benefits:**
+  - 35K Avion points on approval
 
 #### RBC British Airways Visa Infinite
 
@@ -324,7 +342,18 @@ This is of course subjective and no card is one-size-fits-all.
   - No FX fees
   - 10 Priority Pass lounge passes
   - 2x on everything
-- **Sign-up Options:** GCR/FF for $175-$200
+- **Sign-up Options:** GCR ($175) or FF ($200)
+
+#### Scotia Passport Visa Infinite
+
+- **Annual Fee:** $150
+- **Key Benefits:**
+  - 35K points ($350 value) after $2K spend
+  - No FX fees
+  - 3x at Sobeys
+  - 2x food and cinema
+  - 6 lounge passes
+- **Sign-up Options:** GCR/FF for $100
 
 #### Scotia Momentum Visa Infinite
 
@@ -362,6 +391,13 @@ This is of course subjective and no card is one-size-fits-all.
   - Free checked bag
   - Maple Leaf Lounge access, NEXUS credit
 
+#### TD Aeroplan Visa Platinum
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 10K point after first purchase
+  - 10K points after $1K spend in 3 months
+
 #### TD First Class Travel Visa Infinite
 
 - **Annual Fee:** FYF
@@ -375,6 +411,14 @@ This is of course subjective and no card is one-size-fits-all.
   - 4x bills, 2x elsewhere
   - 4 annual lounge passes
 - **Sign-up Options:** GCR/FF for $45 cashback
+
+#### TD Platinum Travel Visa
+
+- **Annual Fee:** FYF
+- **Key Benefits:**
+  - 15K points after first purchase
+  - 35K points after $1K spend in 180 days
+- **Sign-up Options:** GCR for $60 cashback
 
 #### TD Cashback Visa Infinite
 
