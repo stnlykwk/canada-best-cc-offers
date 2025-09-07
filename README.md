@@ -52,7 +52,7 @@ This is of course subjective and no card is one-size-fits-all.
 | [Scotia Amex Gold](#scotia-amex-gold-scene)                     | FYF         | 30,000 pts       | $2,000              | -        |
 | [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF         | $200             | $2,000              | -        |
 | [Scotia Amex Platinum](#scotia-amex-platinum)                   | $399        | 80,000 pts       | $3,000              | -        |
-| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF         | 85,000 pts       | $5,000              | -        |
+| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF         | 165,000 pts      | $7,500              | -        |
 | [TD CashBack Visa Infinite](#td-cashback-visa-infinite)         | FYF         | 10% on $3,500    | specific categories | -        |
 | [TD FCT Visa Platinum](#td-platinum-travel-visa)                | FYF         | 50,000 pts       | $1,000              | -        |
 
@@ -403,14 +403,14 @@ This is of course subjective and no card is one-size-fits-all.
 - **Annual Fee:** FYF
 - **Key Benefits:**
   - 20K points after first purchase
-  - 65K points after $5K spend in 180 days
+  - 145K points after $7,500 spend in 180 days
   - 10% anniversary bonus (max 10K points)
   - $100 annual Expedia4TD credit
   - 8x on TD Rewards
   - 6x on grocery and restaurants
   - 4x bills, 2x elsewhere
   - 4 annual lounge passes
-- **Sign-up Options:** GCR/FF for $45 cashback
+- **Sign-up Options:** GCR/CCG for $25 cashback
 
 #### TD Platinum Travel Visa
 
