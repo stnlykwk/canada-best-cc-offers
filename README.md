@@ -68,7 +68,7 @@ This is of course subjective and no card is one-size-fits-all.
 | [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)                 | FYF          | 20,000 - 60,000 pts | $5,000 - $18,000  | -        |
 | [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)        | FYF          | up to 40,000 pts    | $5,000 - $10,000  | -        |
 | [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165         | 60,000 pts          | $10,000           | -        |
-| [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)                 | FYF          | 15,000 miles          | $1,000            | -        |
+| [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)                 | FYF          | 15,000 pts          | $1,000            | -        |
 | [TD Aeroplan Visa Infinite](#td-aeroplan-visa-infinite)            | $139         | 25,000 pts          | $7,500            | -        |
 | [TD Aeroplan Visa Privilege](#td-aeroplan-visa-privilege)          | $599         | up to 85,000 pts    | $24,000           | -        |
 
@@ -382,7 +382,7 @@ This is of course subjective and no card is one-size-fits-all.
 - **Annual Fee:** $599
 - **Key Benefits:**
   - 20K points after first purchase
-  - 35K points after $12K spend in 6 months
+  - 35K points after $12K spend within 180 days
   - 30K anniversary points after $24K spend
   - 1.5x on grocery, gas, travel, dining
   - 1.25x elsewhere
@@ -393,7 +393,8 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 15K points after $1K spend in 3 months
+  - 10K points after first purchase
+  - 5K points after $1,000 spend within 90 days
 
 #### TD First Class Travel Visa Infinite
 
