@@ -42,15 +42,15 @@ This is of course subjective and no card is one-size-fits-all.
 | [AMEX Marriott Biz](#amex-marriott-business)                    | $150        | 60,000 pts       | $5,000              | -        |
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120        | up to 40,000 pts | $4,000              | -        |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599        | 90,000 pts       | $7,500              | -        |
-| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF         | 45,000+ pts      | $4,500              | -        |
+| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF         | 55,000+ pts      | $4,500              | Oct 31st |
 | [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF         | 3,000 AM         | $3,000              | -        |
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF         | 45,000 pts       | $3,000              | -        |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF         | 45,000 pts       | $3,000              | -        |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF         | 10% up to $3,000 | -                   | -        |
 | [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120        | 30,000 pts       | $2,000              | -        |
-| [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)                | $120         | 55,000 pts          | $5,000            | -        |
-| [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)                | $120         | 55,000 pts          | $5,000            | -        |
-| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                      | FYF via link | 45,000 pts WJ    | $5,000            | -        |
+| [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)             | $120         | 55,000 pts      | $5,000              | -        |
+| [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)             | $120         | 55,000 pts      | $5,000              | -        |
+| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                   | FYF via link | 45,000 pts WJ   | $5,000              | -        |
 | [Scotia Passport Infinite](#scotia-passport-visa-infinite)      | $150        | 35,000 pts       | $2,000              | -        |
 | [Scotia Amex Gold](#scotia-amex-gold-scene)                     | FYF         | 30,000 pts       | $2,000              | -        |
 | [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF         | $200             | $2,000              | -        |
@@ -196,12 +196,12 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 45K points ($300 value) after $4,500 spend
+  - 55K points ($300 value) after $4,500 spend
   - 3,750 points monthly after $2,500 spend (months 4-15)
   - 5x (3.35%) on travel
   - 2x (1.34%) on restaurants, entertainment, recurring bills
   - Dragon Pass + 4 passes
-- **Sign-up Options:** $125 cashback via FrugalFlyer
+- **Sign-up Options:** $125 cashback via CCG
 
 #### BMO Eclipse Visa Infinite
 
