@@ -196,7 +196,7 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 55K points ($300 value) after $4,500 spend
+  - 55K points ($350 value) after $4,500 spend
   - 3,750 points monthly after $2,500 spend (months 4-15)
   - 5x (3.35%) on travel
   - 2x (1.34%) on restaurants, entertainment, recurring bills
