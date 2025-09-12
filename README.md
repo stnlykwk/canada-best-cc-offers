@@ -32,45 +32,45 @@ This is of course subjective and no card is one-size-fits-all.
 
 # Current Top Tier Cards
 
-| Card Name                                                       | Annual Fee  | Welcome Bonus    | Spend Requirement   | Apply By |
-| --------------------------------------------------------------- | ----------- | ---------------- | ------------------- | -------- |
-| [Amex Biz Platinum](#amex-business-platinum)                    | $799        | up to 130,000 MR | $15,000             | -        |
-| [Amex Platinum](#amex-personal-platinum)                        | $799        | up to 110,000 MR | $10,000             | -        |
-| [Amex Cobalt](#amex-cobalt)                                     | $13 / month | 22,000 pts       | $750 / month        | -        |
-| [AMEX Gold pers](#amex-personal-gold)                           | $250        | up to 60,000 pts | $12,000             | -        |
-| [AMEX Marriott pers](#amex-marriott-personal)                   | $120        | 55,000 pts       | $3,000              | -        |
-| [AMEX Marriott Biz](#amex-marriott-business)                    | $150        | 60,000 pts       | $5,000              | -        |
-| [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120        | up to 40,000 pts | $4,000              | -        |
-| [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599        | 90,000 pts       | $7,500              | -        |
-| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF         | 55,000+ pts      | $4,500              | Oct 31st |
-| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF         | 3,000 AM         | $3,000              | -        |
-| [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF         | 45,000 pts       | $3,000              | -        |
-| [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF         | 45,000 pts       | $3,000              | -        |
-| [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF         | 10% up to $3,000 | -                   | -        |
-| [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120        | 30,000 pts       | $2,000              | -        |
-| [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)             | $120         | 55,000 pts      | $5,000              | -        |
-| [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)             | $120         | 55,000 pts      | $5,000              | -        |
-| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                   | FYF via link | 45,000 pts WJ   | $5,000              | -        |
-| [Scotia Passport Infinite](#scotia-passport-visa-infinite)      | $150        | 35,000 pts       | $2,000              | -        |
-| [Scotia Amex Gold](#scotia-amex-gold-scene)                     | FYF         | 30,000 pts       | $2,000              | -        |
-| [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF         | $200             | $2,000              | -        |
-| [Scotia Amex Platinum](#scotia-amex-platinum)                   | $399        | 80,000 pts       | $3,000              | -        |
-| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF         | 165,000 pts      | $7,500              | -        |
-| [TD CashBack Visa Infinite](#td-cashback-visa-infinite)         | FYF         | 10% on $3,500    | specific categories | -        |
-| [TD FCT Visa Platinum](#td-platinum-travel-visa)                | FYF         | 50,000 pts       | $1,000              | -        |
+| Card Name                                                       | Annual Fee   | Welcome Bonus    | Spend Requirement   | Apply By | Portal Incentives           |
+| --------------------------------------------------------------- | ------------ | ---------------- | ------------------- | -------- | --------------------------- |
+| [Amex Biz Platinum](#amex-business-platinum)                    | $799         | up to 130,000 MR | $15,000             | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Amex Platinum](#amex-personal-platinum)                        | $799         | up to 110,000 MR | $10,000             | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Amex Cobalt](#amex-cobalt)                                     | $13 / month  | 22,000 pts       | $750 / month        | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [AMEX Gold pers](#amex-personal-gold)                           | $250         | up to 60,000 pts | $12,000             | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [AMEX Marriott pers](#amex-marriott-personal)                   | $120         | 55,000 pts       | $3,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 60,000 pts       | $5,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | Oct 31st | FF: -<br/>GCR: -<br/>CCG: - |
+| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120         | 30,000 pts       | $2,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)             | $120         | 55,000 pts       | $5,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)             | $120         | 55,000 pts       | $5,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                   | FYF via link | 45,000 pts WJ    | $5,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Scotia Passport Infinite](#scotia-passport-visa-infinite)      | $150         | 35,000 pts       | $2,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Scotia Amex Gold](#scotia-amex-gold-scene)                     | FYF          | 30,000 pts       | $2,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF          | $200             | $2,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [Scotia Amex Platinum](#scotia-amex-platinum)                   | $399         | 80,000 pts       | $3,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF          | 165,000 pts      | $7,500              | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD CashBack Visa Infinite](#td-cashback-visa-infinite)         | FYF          | 10% on $3,500    | specific categories | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD FCT Visa Platinum](#td-platinum-travel-visa)                | FYF          | 50,000 pts       | $1,000              | -        | FF: -<br/>GCR: -<br/>CCG: - |
 
 ## Cards Worth Considering In Specific Situations
 
-| Card Name                                                          | Annual Fee   | Welcome Bonus       | Spend Requirement | Apply By |
-| ------------------------------------------------------------------ | ------------ | ------------------- | ----------------- | -------- |
-| [Amex Biz Gold](#amex-business-gold)                               | $199         | 40,000 MR           | $7,500            | -        |
-| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF          | 30,000+ pts         | $3,000            | -        |
-| [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)                 | FYF          | 20,000 - 60,000 pts | $5,000 - $18,000  | -        |
-| [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)        | FYF          | up to 40,000 pts    | $5,000 - $10,000  | -        |
-| [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165         | 60,000 pts          | $10,000           | -        |
-| [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)                 | FYF          | 15,000 pts          | $1,000            | -        |
-| [TD Aeroplan Visa Infinite](#td-aeroplan-visa-infinite)            | $139         | 25,000 pts          | $7,500            | -        |
-| [TD Aeroplan Visa Privilege](#td-aeroplan-visa-privilege)          | $599         | up to 85,000 pts    | $24,000           | -        |
+| Card Name                                                          | Annual Fee | Welcome Bonus       | Spend Requirement | Apply By | Portal Incentives           |
+| ------------------------------------------------------------------ | ---------- | ------------------- | ----------------- | -------- | --------------------------- |
+| [Amex Biz Gold](#amex-business-gold)                               | $199       | 40,000 MR           | $7,500            | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF        | 30,000+ pts         | $3,000            | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)                 | FYF        | 20,000 - 60,000 pts | $5,000 - $18,000  | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)        | FYF        | up to 40,000 pts    | $5,000 - $10,000  | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165       | 60,000 pts          | $10,000           | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)                 | FYF        | 15,000 pts          | $1,000            | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD Aeroplan Visa Infinite](#td-aeroplan-visa-infinite)            | $139       | 25,000 pts          | $7,500            | -        | FF: -<br/>GCR: -<br/>CCG: - |
+| [TD Aeroplan Visa Privilege](#td-aeroplan-visa-privilege)          | $599       | up to 85,000 pts    | $24,000           | -        | FF: -<br/>GCR: -<br/>CCG: - |
 
 # Individual Card Details
 
