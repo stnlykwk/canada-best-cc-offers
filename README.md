@@ -2,7 +2,7 @@
 
 **Last Updated:** Sept 7, 2025
 
-To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.
+To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.  You can also jump to a specific card's details by clicking on its name in the table.
 
 **Note**: Anything below this note was mostly copied from [u/le-bib](https://www.reddit.com/user/le-bib/)'s "Best current credit card offers in Canada" post on [r/churningcanada](https://www.reddit.com/r/churningcanada/). I created this repo so that the content below can live in one place with version control. Feel free to open an issue or a PR if you think the content needs updating.
 
