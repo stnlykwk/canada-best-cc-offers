@@ -42,8 +42,8 @@ This is of course subjective and no card is one-size-fits-all.
 | [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 60,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | FF: -<br/>CCG: Oct. 31, 2025<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
+| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Oct. 31, 2025 CCG: Jun 1, 2026 GCR: Jun 1, 2026 | FF: $125 CCG: $125 GCR: $125|
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
@@ -190,13 +190,13 @@ This is of course subjective and no card is one-size-fits-all.
   - 3,000 Air Miles after $4,500 spend
   - Additional 2,000 AM after $10,000 spend
   - Additional 2,000 AM after $20,000 spend
-- **Sign-up Options:** $125 cashback via FrugalFlyer
+- **Sign-up Options:** $125 cashback via CCG/FF/FW
 
 #### BMO Ascend World Elite MC
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 55K points ($350 value) after $4,500 spend
+  - 55K points ($367 value) after $4,500 spend
   - 3,750 points monthly after $2,500 spend (months 4-15)
   - 5x (3.35%) on travel
   - 2x (1.34%) on restaurants, entertainment, recurring bills
