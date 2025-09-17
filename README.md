@@ -187,9 +187,9 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** First Year Free (FYF)
 - **Key Benefits:**
-  - 3,000 Air Miles after $4,500 spend
-  - Additional 2,000 AM after $10,000 spend
-  - Additional 2,000 AM after $20,000 spend
+  - 3,000 Air Miles after $4,500 spend within 110 days
+  - Additional 2,000 AM after $10,000 spend within 180 days
+  - Additional 2,000 AM after $20,000 spend within 365 days
 - **Sign-up Options:** $125 cashback via CCG/FF/FW
 
 #### BMO Ascend World Elite MC
