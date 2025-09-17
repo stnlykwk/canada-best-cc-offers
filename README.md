@@ -344,7 +344,9 @@ This is of course subjective and no card is one-size-fits-all.
   - No FX fees
   - 10 Priority Pass lounge passes
   - 2x on everything
-- **Sign-up Options:** $200 cashback via FF (GCR $175)
+- **Sign-up Options:** 
+  - FF: $200
+  - GCR: $175
 
 #### Scotia Passport Visa Infinite
 
