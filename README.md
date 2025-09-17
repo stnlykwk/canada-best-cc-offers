@@ -333,7 +333,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 6x at Sobeys
   - 5x food and entertainment
   - 3x transit, gas, streaming
-- **Sign-up Options:** $150 cashback via GCR or FF
+- **Sign-up Options:** $150 cashback via GCR/FF
 
 #### Scotia Amex Platinum
 
