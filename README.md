@@ -281,7 +281,11 @@ This is of course subjective and no card is one-size-fits-all.
   - Quebec: 20K points, no minimum spend
   - 5x on restaurant, grocery, digital media, membership, utilities
   - 10% birthday bonus on previous 12 months' points (max 15K)
-- **Sign-up Options:** $150 cashback via CCG (FF $125 / FW $120 / GCR $80)
+- **Sign-up Options:** 
+  - CCG: $150
+  - FF: $125
+  - FW: $120
+  - GCR: $80
 
 ## RBC Cards
 
