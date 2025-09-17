@@ -43,7 +43,7 @@ This is of course subjective and no card is one-size-fits-all.
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
-| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Oct. 31, 2025 CCG: Jun 1, 2026 GCR: Jun 1, 2026 | FF: $125 CCG: $125 GCR: $125|
+| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Oct. 31, 2025 <br/> CCG: Jun 1, 2026 <br/> GCR: Jun 1, 2026 | FF: $125 <br/> CCG: $125 <br/> GCR: $125|
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | CCG: Oct. 31, 2025                      | CCG: $150                   |
