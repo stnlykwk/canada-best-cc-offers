@@ -42,11 +42,11 @@ This is of course subjective and no card is one-size-fits-all.
 | [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 60,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | FF: -<br/>CCG: Oct. 31, 2025<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
+| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Oct. 31, 2025 <br/> CCG: Jun 1, 2026 <br/> GCR: Jun 1, 2026 | FF: $125 <br/> CCG: $125 <br/> GCR: $125|
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | CCG: Oct. 31, 2025                      | CCG: $150                   |
 | [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120         | 30,000 pts       | $2,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)             | $120         | 55,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)             | $120         | 55,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
@@ -89,7 +89,7 @@ This is of course subjective and no card is one-size-fits-all.
   - Amex FHR access
   - YYZ benefits
   - Priority Pass with unlimited entries
-- **Sign-up Options:** Referral (+10K points) or GCR ($125 cashback)
+- **Sign-up Options:** Referral (+10K points) or $125 cashback via GCR
 
 #### Amex Personal Gold
 
@@ -100,7 +100,7 @@ This is of course subjective and no card is one-size-fits-all.
   - Additional 10Kpts for purchase between months 14-17 (via referral)
   - 2x on travel, gas, grocery and drugstore
   - 4 Plaza Premium lounge passes
-- **Sign-up Options:** Referral (10K-20K bonus) or GCR ($125 cashback)
+- **Sign-up Options:** Referral (10K-20K bonus) or $125 cashback via GCR
 
 #### Amex Business Gold
 
@@ -119,7 +119,7 @@ This is of course subjective and no card is one-size-fits-all.
   - Marriott Gold status
   - Priority Pass unlimited access
   - 1.25x on all purchases
-- **Sign-up Options:** Referral (+10k points) or GCR ($150 cashback)
+- **Sign-up Options:** Referral (+10k points) or $150 cashback via GCR
 
 #### Amex Cobalt
 
@@ -130,7 +130,7 @@ This is of course subjective and no card is one-size-fits-all.
   - Extra 7K points from targeted referrals
   - 5 MR/$ on food (grocery, restaurant, bars)
   - 2 MR/$ on travel, transport and gas
-- **Sign-up Options:** Referral (+7K points) or GCR ($100 cashback)
+- **Sign-up Options:** Referral (+7K points) or $100 cashback via GCR
 
 ### Marriott Co-Branded Cards
 
@@ -142,7 +142,7 @@ This is of course subjective and no card is one-size-fits-all.
   - or 55Kpts after spending $3,000 via referral
   - 5x at Marriott, 2x elsewhere
   - Anniversary free night (35K points) starting year 2
-- **Sign-up Options:** Referral or GCR for $75 cashback
+- **Sign-up Options:** Referral or $75 cashback via GCR
 
 #### Amex Marriott Business
 
@@ -152,7 +152,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 5x at Marriott, 3x for travel/gas/dining, 2x elsewhere
   - Anniversary free night (35K points) starting year 2
   - 10K points per referral (20K during promos)
-- **Sign-up Options:** Referral or GCR for $75 cashback
+- **Sign-up Options:** Referral or $75 cashback via GCR
 
 ### Aeroplan Cards
 
@@ -165,7 +165,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 2x on Air Canada
   - 1.5x on dining and food delivery
 - **Sign-up Options:**
-  - GCR for $50 cashback
+  - $50 cashback via GCR
   - Air Canada in-path offer: 25K points after $3K + 20K points month 13 + $100 AC credit
 
 #### Amex Aeroplan Reserve
@@ -179,7 +179,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 1.25x elsewhere
   - Maple Leaf Lounge access
   - $100 NEXUS credit, UberPass membership
-- **Sign-up Options:** GCR for $125 cashback
+- **Sign-up Options:** $125 cashback via GCR
 
 ## BMO Cards
 
@@ -187,16 +187,16 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** First Year Free (FYF)
 - **Key Benefits:**
-  - 3,000 Air Miles after $4,500 spend
-  - Additional 2,000 AM after $10,000 spend
-  - Additional 2,000 AM after $20,000 spend
-- **Sign-up Options:** $125 cashback via FrugalFlyer
+  - 3,000 Air Miles after $4,500 spend within 110 days
+  - Additional 2,000 AM after $10,000 spend within 180 days
+  - Additional 2,000 AM after $20,000 spend within 365 days
+- **Sign-up Options:** $125 cashback via CCG/FF/FW
 
 #### BMO Ascend World Elite MC
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 55K points ($350 value) after $4,500 spend
+  - 55K points ($367 value) after $4,500 spend
   - 3,750 points monthly after $2,500 spend (months 4-15)
   - 5x (3.35%) on travel
   - 2x (1.34%) on restaurants, entertainment, recurring bills
@@ -211,7 +211,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 2,500 points monthly after $2K spend (months 4-15)
   - $50 annual lifestyle credit
   - 5x (3.35%) on grocery, restaurants, gas, transit
-- **Sign-up Options:** $125 cashback via FrugalFlyer
+- **Sign-up Options:** $125 cashback via FF
 
 #### BMO VIPorter World Elite MC
 
@@ -281,7 +281,11 @@ This is of course subjective and no card is one-size-fits-all.
   - Quebec: 20K points, no minimum spend
   - 5x on restaurant, grocery, digital media, membership, utilities
   - 10% birthday bonus on previous 12 months' points (max 15K)
-- **Sign-up Options:** GCR ($80) or CCG ($100)
+- **Sign-up Options:** 
+  - CCG: $150
+  - FF: $125
+  - FW: $120
+  - GCR: $80
 
 ## RBC Cards
 
@@ -329,7 +333,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 6x at Sobeys
   - 5x food and entertainment
   - 3x transit, gas, streaming
-- **Sign-up Options:** GCR or FF for extra $150
+- **Sign-up Options:** $150 cashback via GCR/FF
 
 #### Scotia Amex Platinum
 
@@ -340,7 +344,9 @@ This is of course subjective and no card is one-size-fits-all.
   - No FX fees
   - 10 Priority Pass lounge passes
   - 2x on everything
-- **Sign-up Options:** GCR ($175) or FF ($200)
+- **Sign-up Options:** 
+  - FF: $200
+  - GCR: $175
 
 #### Scotia Passport Visa Infinite
 
@@ -351,7 +357,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 3x at Sobeys
   - 2x food and cinema
   - 6 lounge passes
-- **Sign-up Options:** GCR/FF for $100
+- **Sign-up Options:** $100 cashback via GCR/FF
 
 #### Scotia Momentum Visa Infinite
 
@@ -361,7 +367,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 4% on grocery and recurring
   - 2% on gas and transit
   - Annual cashback payout in November
-- **Sign-up Options:** GCR/FF for $100
+- **Sign-up Options:** $100 cashback via GCR/FF
 
 ## TD Cards
 
@@ -409,7 +415,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 6x on grocery and restaurants
   - 4x bills, 2x elsewhere
   - 4 annual lounge passes
-- **Sign-up Options:** GCR/CCG for $25 cashback
+- **Sign-up Options:** $25 cashback via GCR/CCG
 
 #### TD Platinum Travel Visa
 
@@ -417,7 +423,7 @@ This is of course subjective and no card is one-size-fits-all.
 - **Key Benefits:**
   - 15K points after first purchase
   - 35K points after $1K spend in 180 days
-- **Sign-up Options:** GCR for $60 cashback
+- **Sign-up Options:** $60 cashback via GCR
 
 #### TD Cashback Visa Infinite
 
@@ -426,4 +432,4 @@ This is of course subjective and no card is one-size-fits-all.
   - 10% on first $3,500 spend (gas, grocery, pre-authorized payments)
   - 3% on grocery and gas
   - Free Deluxe TD Auto Club Membership
-- **Sign-up Options:** GCR for $100 cashback
+- **Sign-up Options:** $100 cashback via GCR
