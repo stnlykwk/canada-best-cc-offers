@@ -64,7 +64,7 @@ This is of course subjective and no card is one-size-fits-all.
 | Card Name                                                          | Annual Fee | Welcome Bonus       | Spend Requirement | Apply By                    | Portal Incentives           |
 | ------------------------------------------------------------------ | ---------- | ------------------- | ----------------- | --------------------------- | --------------------------- |
 | [Amex Biz Gold](#amex-business-gold)                               | $199       | 40,000 MR           | $7,500            | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF        | 30,000+ pts         | $3,000            | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
+| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF        | 40,000+ pts         | $3,000            | CCG: Oct. 31, 2025          | CCG: $125                   |
 | [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)                 | FYF        | 20,000 - 60,000 pts | $5,000 - $18,000  | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)        | FYF        | up to 40,000 pts    | $5,000 - $10,000  | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165       | 60,000 pts          | $10,000           | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
@@ -207,11 +207,11 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 30K points ($200 value) after $3K spend
+  - 40K points ($267 value) after $3K spend
   - 2,500 points monthly after $2K spend (months 4-15)
   - $50 annual lifestyle credit
   - 5x (3.35%) on grocery, restaurants, gas, transit
-- **Sign-up Options:** $125 cashback via FF
+- **Sign-up Options:** $125 cashback via CCG
 
 #### BMO VIPorter World Elite MC
 
