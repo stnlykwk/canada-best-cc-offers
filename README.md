@@ -1,6 +1,6 @@
 # Best current credit card offers in Canada
 
-**Last Updated:** Sept 7, 2025
+**Last Updated:** Oct 9, 2025
 
 To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.  You can also jump to a specific card's details by clicking on its name in the table.
 
@@ -43,7 +43,7 @@ This is of course subjective and no card is one-size-fits-all.
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
-| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Oct. 31, 2025 <br/> CCG: Jun 1, 2026 <br/> GCR: Jun 1, 2026 | FF: $125 <br/> CCG: $125 <br/> GCR: $125|
+| [BMO WE Air Miles](#bmo-world-elite-air-miles-mc)               | FYF          | 3,000 AM         | $3,000              | FF: Jun 1, 2026 <br/> CCG: Jun 1, 2026 <br/> GCR: Jun 1, 2026 | FF: $160 <br/> CCG: $150 <br/> FW: $125|
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | CCG: Oct. 31, 2025                      | CCG: $150                   |
@@ -187,10 +187,12 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** First Year Free (FYF)
 - **Key Benefits:**
-  - 3,000 Air Miles after $4,500 spend within 110 days
-  - Additional 2,000 AM after $10,000 spend within 180 days
-  - Additional 2,000 AM after $20,000 spend within 365 days
-- **Sign-up Options:** $125 cashback via CCG/FF/FW
+  - 3,000 Air Miles upon spending $4,500 within 110 days
+  - 2,000 Air Miles upon spending $10,000 within 180 days
+  - 2,000 Air Miles upon spending $20,000 within 365 days
+  - Plus, earn an additional bonus 2,000 Air Miles when you spend $1,000 at eligible wholesale clubs, grocery stores, or alcohol retailers within 110 days
+
+- **Sign-up Options:** $160 cashback via FF/ $150 via CCG / $125 via FW
 
 #### BMO Ascend World Elite MC
 
