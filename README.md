@@ -36,7 +36,7 @@ This is of course subjective and no card is one-size-fits-all.
 | --------------------------------------------------------------- | ------------ | ---------------- | ------------------- | --------------------------------------- | --------------------------- |
 | [Amex Biz Platinum](#amex-business-platinum)                    | $799         | up to 130,000 MR | $15,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Platinum](#amex-personal-platinum)                        | $799         | up to 110,000 MR | $10,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [Amex Cobalt](#amex-cobalt)                                     | $13 / month  | 22,000 pts       | $750 / month        | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [Amex Cobalt](#amex-cobalt)                                     | $16 / month  | 22,000 pts       | $750 / month        | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Gold pers](#amex-personal-gold)                           | $250         | up to 60,000 pts | $12,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Marriott pers](#amex-marriott-personal)                   | $120         | 55,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 60,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
@@ -123,8 +123,7 @@ This is of course subjective and no card is one-size-fits-all.
 
 #### Amex Cobalt
 
-- **Annual Fee:** $13/month
-  - increase to $16/ month, effective Nov 5, 2025
+- **Annual Fee:** $16/month
 - **Key Benefits:**
   - 1,250 MR monthly bonus with $750 spend
   - Extra 7K points from targeted referrals
