@@ -1,6 +1,6 @@
 # Best current credit card offers in Canada
 
-**Last Updated:** Oct 9, 2025
+**Last Updated:** Nov 30, 2025
 
 To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.  You can also jump to a specific card's details by clicking on its name in the table.
 
@@ -47,15 +47,15 @@ This is of course subjective and no card is one-size-fits-all.
 | [CIBC Aventura Visa Infinite](#cibc-aventura-visa-infinite)     | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aventura Visa Gold](#cibc-aventura-visa-gold)             | FYF          | 45,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Dividend Visa Infinite](#cibc-dividend-visa-infinite)     | FYF          | 10% up to $3,000 | -                   | CCG: Oct. 31, 2025                      | CCG: $150                   |
-| [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120         | 30,000 pts       | $2,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [MBNA Rewards WE MC](#mbna-rewards-world-elite-mc)              | $120         | 30,000 pts       | $2,000              | FF: -<br/>CCG: Dec. 31, 2025<br/>GCR: -             | FF: $125 <br/>CCG: $100 <br/>GCR: $100 |
 | [RBC Avion Visa Platinum](#rbc-avion-visa-platinum)             | $120         | 55,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [RBC Avion Visa Infinite](#rbc-avion-visa-infinite)             | $120         | 55,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                   | FYF via link | 45,000 pts WJ    | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [RBC WestJet WE](#rbc-westjet-world-elite-mc)                   | FYF via link | 60,000 pts WJ    | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Scotia Passport Infinite](#scotia-passport-visa-infinite)      | $150         | 35,000 pts       | $2,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Scotia Amex Gold](#scotia-amex-gold-scene)                     | FYF          | 30,000 pts       | $2,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Scotia Momentum Visa Infinite](#scotia-momentum-visa-infinite) | FYF          | $200             | $2,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Scotia Amex Platinum](#scotia-amex-platinum)                   | $399         | 80,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF          | 165,000 pts      | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [TD FCT Visa Infinite](#td-first-class-travel-visa-infinite)    | FYF          | 165,000 pts      | $7,500              | FF: -<br/>CCG: Dec 31, 2025 <br/>GCR: -             | FF: -<br/>CCG: $20 <br/>GCR: $25 |
 | [TD CashBack Visa Infinite](#td-cashback-visa-infinite)         | FYF          | 10% on $3,500    | specific categories | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [TD FCT Visa Platinum](#td-platinum-travel-visa)                | FYF          | 50,000 pts       | $1,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 
@@ -64,9 +64,10 @@ This is of course subjective and no card is one-size-fits-all.
 | Card Name                                                          | Annual Fee | Welcome Bonus       | Spend Requirement | Apply By                    | Portal Incentives           |
 | ------------------------------------------------------------------ | ---------- | ------------------- | ----------------- | --------------------------- | --------------------------- |
 | [Amex Biz Gold](#amex-business-gold)                               | $199       | 40,000 MR           | $7,500            | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
-| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF        | 40,000+ pts         | $3,000            | CCG: Oct. 31, 2025          | CCG: $125                   |
+| [BMO Eclipse Visa Infinite](#bmo-eclipse-visa-infinite)            | FYF        | 30,000+ pts         | $3,000            | FF: -<br/>CCG: Dec 31, 2025 <br/>GCR: - | FF: -<br/>CCG: $150 <br/>GCR: - |
 | [BMO VIPorter WE MC](#bmo-viporter-world-elite-mc)                 | FYF        | 20,000 - 60,000 pts | $5,000 - $18,000  | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [CIBC Aeroplan Visa Infinite](#cibc-aeroplan-visa-infinite)        | FYF        | up to 40,000 pts    | $5,000 - $10,000  | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
+| [CIBC Aeroplan Visa Privilege](#cibc-aeroplan-visa-privilege)      | $599       | up to 85,000 pts    | $25,000           | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [RBC British Airways Visa Inf](#rbc-british-airways-visa-infinite) | $165       | 60,000 pts          | $10,000           | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [TD Aeroplan Platinum](#td-aeroplan-visa-platinum)                 | FYF        | 15,000 pts          | $1,000            | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
 | [TD Aeroplan Visa Infinite](#td-aeroplan-visa-infinite)            | $139       | 25,000 pts          | $7,500            | FF: -<br/>CCG: -<br/>GCR: - | FF: -<br/>CCG: -<br/>GCR: - |
@@ -208,11 +209,11 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
-  - 40K points ($267 value) after $3K spend
+  - 30K points ($200 value) after $3K spend
   - 2,500 points monthly after $2K spend (months 4-15)
   - $50 annual lifestyle credit
   - 5x (3.35%) on grocery, restaurants, gas, transit
-- **Sign-up Options:** $125 cashback via CCG
+- **Sign-up Options:** $150 cashback via CCG
 
 #### BMO VIPorter World Elite MC
 
@@ -238,6 +239,18 @@ This is of course subjective and no card is one-size-fits-all.
   - 20K anniversary points after $12K spend in first year
   - 1.5x on grocery and gas
   - Free checked bag and preferred pricing on flights
+
+#### CIBC Aeroplan Visa Privilege
+
+- **Annual Fee:** $599
+- **Key Benefits:**
+  - 20K points after first purchase
+  - 30K points after $15K spend in first 6 months
+  - 35K anniversary points after $25K spend in first year
+  - 1.5x on grocery, gas, travel and dining
+  - 1.25x elsewhere
+  - Free checked bag
+  - Maple Leaf Lounge access, NEXUS credit
 
 #### CIBC Aventura Visa Infinite
 
@@ -283,10 +296,8 @@ This is of course subjective and no card is one-size-fits-all.
   - 5x on restaurant, grocery, digital media, membership, utilities
   - 10% birthday bonus on previous 12 months' points (max 15K)
 - **Sign-up Options:** 
-  - CCG: $150
   - FF: $125
-  - FW: $120
-  - GCR: $80
+  - CCG/GCR: $100
 
 ## RBC Cards
 
@@ -316,11 +327,12 @@ This is of course subjective and no card is one-size-fits-all.
 
 - **Annual Fee:** FYF with promo link
 - **Key Benefits:**
-  - 25K WJ points after first purchase
-  - Extra 20K points after $5K spend
-  - Annual companion voucher ($119 NA, $399 international)
+  - 30K WJ points after first purchase
+  - Extra 30K points after $5K spend
+  - Anniversary bonus of 10k points
+  - Annual companion voucher ($119 NA, $399 international) after 5k spend
   - Free first checked bag
-- [Promo Link](https://www.westjet.com/en-ca/rewards/credit-cards/world-elite/fyf-cs)
+- [Promo Link](https://www.westjet.com/en-ca/rewards/credit-cards/world-elite/70-fyf)
 
 ## Scotia Cards
 
@@ -358,7 +370,7 @@ This is of course subjective and no card is one-size-fits-all.
   - 3x at Sobeys
   - 2x food and cinema
   - 6 lounge passes
-- **Sign-up Options:** $100 cashback via GCR/FF
+- **Sign-up Options:** $150 cashback via GCR/FF
 
 #### Scotia Momentum Visa Infinite
 
@@ -378,7 +390,7 @@ This is of course subjective and no card is one-size-fits-all.
 - **Key Benefits:**
   - 10K points after first purchase
   - 15K points after $7,500 spend in 180 days
-  - 20K anniversary points after $12K spend in 12 months
+  - 25K anniversary points after $12K spend in 12 months
   - 1.5x on grocery, gas and AC
   - Free checked bag
 - **Special Offer:** $200 AC credit via in-path offer (not FYF)
@@ -416,15 +428,14 @@ This is of course subjective and no card is one-size-fits-all.
   - 6x on grocery and restaurants
   - 4x bills, 2x elsewhere
   - 4 annual lounge passes
-- **Sign-up Options:** $25 cashback via GCR/CCG
+- **Sign-up Options:** $25 cashback via GCR, $20 via CCG
 
 #### TD Platinum Travel Visa
 
 - **Annual Fee:** FYF
 - **Key Benefits:**
   - 15K points after first purchase
-  - 35K points after $1K spend in 180 days
-- **Sign-up Options:** $60 cashback via GCR
+  - 35K points after $1K spend in 90 days
 
 #### TD Cashback Visa Infinite
 
