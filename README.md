@@ -39,7 +39,7 @@ This is of course subjective and no card is one-size-fits-all.
 | [Amex Cobalt](#amex-cobalt)                                     | $16 / month  | 22,000 pts       | $750 / month        | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Gold pers](#amex-personal-gold)                           | $250         | up to 60,000 pts | $12,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Marriott pers](#amex-marriott-personal)                   | $120         | 110,000 pts      | $6,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 110,000 pts      | $6,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 110,000 pts      | $10,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
