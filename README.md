@@ -1,6 +1,6 @@
 # Best current credit card offers in Canada
 
-**Last Updated:** Nov 30, 2025
+**Last Updated:** Feb 9, 2026
 
 To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.  You can also jump to a specific card's details by clicking on its name in the table.
 
