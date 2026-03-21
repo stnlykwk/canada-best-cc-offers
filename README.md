@@ -1,6 +1,6 @@
 # Best current credit card offers in Canada
 
-**Last Updated:** Nov 30, 2025
+**Last Updated:** Feb 9, 2026
 
 To jump to specific sections of this page, click on the list icon in the top right that's next to the pencil icon.  You can also jump to a specific card's details by clicking on its name in the table.
 
@@ -38,8 +38,8 @@ This is of course subjective and no card is one-size-fits-all.
 | [Amex Platinum](#amex-personal-platinum)                        | $799         | up to 110,000 MR | $10,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Cobalt](#amex-cobalt)                                     | $16 / month  | 22,000 pts       | $750 / month        | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Gold pers](#amex-personal-gold)                           | $250         | up to 60,000 pts | $12,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [AMEX Marriott pers](#amex-marriott-personal)                   | $120         | 55,000 pts       | $3,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
-| [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 60,000 pts       | $5,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [AMEX Marriott pers](#amex-marriott-personal)                   | $120         | 110,000 pts      | $6,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
+| [AMEX Marriott Biz](#amex-marriott-business)                    | $150         | 110,000 pts      | $10,000             | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [AMEX Aeroplan core](#amex-aeroplan-core)                       | $120         | up to 40,000 pts | $4,000              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [Amex Aeroplan Reserve](#amex-aeroplan-reserve)                 | $599         | 90,000 pts       | $7,500              | FF: -<br/>CCG: -<br/>GCR: -             | FF: -<br/>CCG: -<br/>GCR: - |
 | [BMO Ascend WE MC](#bmo-ascend-world-elite-mc)                  | FYF          | 55,000+ pts      | $4,500              | CCG: Oct. 31, 2025                      | CCG: $125                   |
