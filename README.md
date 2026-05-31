@@ -1,3 +1,5 @@
+### **Note**: I've created a [new website](https://best-cc-offers-canada.pages.dev/) that makes the list sortable and filterable.  Please check it out and report any feedback or data updates there!
+
 # Best current credit card offers in Canada
 
 **Last Updated:** Mar 29, 2026
